@@ -76,6 +76,18 @@ ghost install
 
 &nbsp;
 
+or start project already installed
+
+```
+cd demo
+```
+
+```
+ghost start
+```
+
+&nbsp;
+
 Check out our [official documentation](https://ghost.org/docs/) for more information about our [recommended hosting stack](https://ghost.org/docs/hosting/) & properly [upgrading Ghost](https://ghost.org/docs/update/), plus everything you need to develop your own Ghost [themes](https://ghost.org/docs/themes/) or work with [our API](https://ghost.org/docs/content-api/).
 
 ### Contributors & advanced developers
